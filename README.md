@@ -12,7 +12,7 @@ I enjoy experimenting with new ideas, making things from scratch, and turning wh
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,cs,py,swift,threejs,blender&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,cs,py,arduino,swift,threejs,blender&theme=dark" alt="Tech stack" />
 
 </div>
 
