@@ -1,10 +1,4 @@
-<div align="center">
 
-<br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=C0392B&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Ali;Creative+Computing+graduate+%40+Salford;Software+%C2%B7+Games+%C2%B7+3D+%C2%B7+AI;If+I+have+an+idea%2C+I%27ll+try+to+build+it)](https://git.io/typing-svg)
-
-<br />
 
 <img src="https://skillicons.dev/icons?i=react,js,nodejs,py,swift,threejs,blender&theme=dark" alt="Tech stack" />
 
