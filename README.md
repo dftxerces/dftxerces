@@ -1,23 +1,47 @@
-# Hey there!
+<div align="center">
 
-I'm Ali, a Creative Computing graduate from the University of Salford.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8b0000&height=180&section=header&text=Hey%20there!%20I'm%20Ali&fontColor=e8e8e8&fontSize=42&fontAlignY=38&desc=Creative%20Technologist%20%C2%B7%20Developer%20%C2%B7%20Builder%20of%20Strange%20Things&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-I design and build things across software, creative technology, games, and AI.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C0392B&center=true&vCenter=true&width=600&lines=Creative+Computing+graduate+%40+Salford;Software+%C2%B7+Games+%C2%B7+3D+%C2%B7+AI;If+I+have+an+idea%2C+I%27ll+try+to+build+it)](https://git.io/typing-svg)
 
-If I have an idea, chances are I'll try to build it.
+</div>
 
-My main tools are React, JavaScript, Node.js, Python, SwiftUI, Three.js, and Blender. I also enjoy experimenting with AI, 3D, and creative coding.
+---
 
-I'm currently working on **4C-Calibrate**, **Minar**, and my own interactive portfolio.
+## 🗡️ About Me
 
-I've built everything from backend systems and iOS apps to games, 3D environments, and experimental horror projects.
+I design and build things across **software**, **creative technology**, **games**, and **AI**. From backend systems and iOS apps to 3D environments and experimental horror projects, if I have an idea, chances are I'll try to build it.
 
-### Fun Facts:
+## 🛠️ Toolkit
 
-- 🎮 I'm obsessed with games, especially FromSoftware and Castlevania
-- 🩸 I have a soft spot for horror and dark gothic aesthetics
-- 🎨 I love 3D art, weird visuals, and creative experiments
-- 🤖 I'm interested in AI and generative technology
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,py,swift,threejs,blender&theme=dark" alt="Tech stack" />
+
+</div>
+
+Outside of that, I enjoy experimenting with **AI**, **3D**, and **creative coding**.
+
+## 🔨 Currently Working On
+
+| Project | |
+| :-- | :-- |
+| 🧪 **4C-Calibrate** | In progress |
+| 🌑 **Minar** | In progress |
+| 🌐 **Interactive Portfolio** | My own corner of the internet |
+
+## 🩸 Fun Facts
+
+- 🎮 Obsessed with games, especially **FromSoftware** and **Castlevania**
+- 🦇 A soft spot for horror and dark gothic aesthetics
+- 🎨 Love 3D art, weird visuals, and creative experiments
+- 🤖 Fascinated by AI and generative technology
 - 🖥️ I like building PCs almost as much as I like building software
 
-<img src="sword banner.png" width="1920">
+<br />
+
+<div align="center">
+  <img src="sword%20banner.png" width="100%" alt="Sword banner" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0d0d0d&height=100&section=footer" width="100%" alt="footer" />
