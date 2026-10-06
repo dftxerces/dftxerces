@@ -4,13 +4,11 @@
 
 </div>
 
----
-
 ## About
 
-I design and build things across **software**, **creative technology**, **games**, and **AI**. From backend systems and iOS apps to 3D environments and experimental horror projects, if I have an idea, chances are I'll try to build it.
+I build things for the fun of figuring out how they work. That usually means **software, games, 3D, AI, or some strange combination of the four**.
 
-I also enjoy experimenting with **AI**, **3D**, and **creative coding**.
+I enjoy experimenting with new ideas, making things from scratch, and turning whatever I'm interested in at the time into a project.
 
 <div align="center">
 
@@ -20,15 +18,20 @@ I also enjoy experimenting with **AI**, **3D**, and **creative coding**.
 
 ## Fun Facts
 
-- Obsessed with games, especially **FromSoftware** and **Castlevania**
-- A soft spot for horror and dark gothic aesthetics
+- Obsessed with games, especially from **FromSoftware** and the series **Castlevania**
+- A huge fan of **Horror** and **Gothic Aesthetics**
 - Love 3D art, weird visuals, and creative experiments
 - Fascinated by AI and generative technology
 - I like building PCs almost as much as I like building software
 
 ## Hobbies
 
-Add your hobbies here.
+- Gym
+- Travelling
+- Reading
+- Gaming
+- Music
+- Cinema
 
 <br />
 
