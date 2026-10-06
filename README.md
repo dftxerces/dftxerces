@@ -32,7 +32,7 @@ Outside of that, I enjoy experimenting with **AI**, **3D**, and **creative codin
 <br />
 
 <div align="center">
-  <img src="sword%20banner.png" width="100%" alt="Sword banner" />
+  <img src="sword.png" width="100%" alt="Sword banner" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0d0d0d&height=100&section=footer" width="100%" alt="footer" />
