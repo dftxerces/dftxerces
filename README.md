@@ -21,15 +21,6 @@ I design and build things across **software**, **creative technology**, **games*
 </div>
 
 Outside of that, I enjoy experimenting with **AI**, **3D**, and **creative coding**.
-
-## 🔨 Currently Working On
-
-| Project | |
-| :-- | :-- |
-| 🧪 **4C-Calibrate** | In progress |
-| 🌑 **Minar** | In progress |
-| 🌐 **Interactive Portfolio** | My own corner of the internet |
-
 ## 🩸 Fun Facts
 
 - 🎮 Obsessed with games, especially **FromSoftware** and **Castlevania**
