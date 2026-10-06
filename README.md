@@ -1,9 +1,8 @@
+<div align="center">
 
-
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,py,swift,threejs,blender&theme=dark" alt="Tech stack" />
+# Hi, I'm Ali
 
 </div>
-
 
 ---
 
@@ -13,6 +12,12 @@ I design and build things across **software**, **creative technology**, **games*
 
 I also enjoy experimenting with **AI**, **3D**, and **creative coding**.
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,py,swift,threejs,blender&theme=dark" alt="Tech stack" />
+
+</div>
+
 ## Fun Facts
 
 - Obsessed with games, especially **FromSoftware** and **Castlevania**
@@ -20,6 +25,10 @@ I also enjoy experimenting with **AI**, **3D**, and **creative coding**.
 - Love 3D art, weird visuals, and creative experiments
 - Fascinated by AI and generative technology
 - I like building PCs almost as much as I like building software
+
+## Hobbies
+
+Add your hobbies here.
 
 <br />
 
