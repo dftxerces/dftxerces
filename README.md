@@ -33,5 +33,3 @@ I also enjoy experimenting with **AI**, **3D**, and **creative coding**.
 <div align="center">
   <img src="sword.png" width="100%" alt="Sword banner" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0d0d0d&height=100&section=footer" width="100%" alt="footer" />
