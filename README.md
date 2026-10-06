@@ -20,7 +20,7 @@ I enjoy experimenting with new ideas, making things from scratch, and turning wh
 - Obsessed with games, especially from **FromSoftware** and the series **Castlevania**
 - A huge fan of **Horror** and **Gothic Aesthetics**
 - Love 3D art, weird visuals, and creative experiments
-- Fascinated by AI and generative technology
+- I have 2 cats
 - I like building PCs almost as much as I like building software
 
 ## Hobbies
