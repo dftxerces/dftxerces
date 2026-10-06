@@ -9,6 +9,7 @@
 I build things for the fun of figuring out how they work. That usually means **software, games, 3D, AI, or some strange combination of the four**.
 I enjoy experimenting with new ideas, making things from scratch, and turning whatever I'm interested in at the time into a project.
 
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,js,nodejs,py,swift,threejs,blender&theme=dark" alt="Tech stack" />
