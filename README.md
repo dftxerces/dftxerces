@@ -19,3 +19,5 @@ I've built everything from backend systems and iOS apps to games, 3D environment
 - 🎨 I love 3D art, weird visuals, and creative experiments
 - 🤖 I'm interested in AI and generative technology
 - 🖥️ I like building PCs almost as much as I like building software
+
+<img src="./assets/sword-banner.png" width="400">
